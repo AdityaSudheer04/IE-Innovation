@@ -557,6 +557,7 @@ a {
 }
 .container-fluid {
     .row {
+        justify-content: center;
         padding: 0 0 4em 0;
         &:nth-child(even) {
             background: #F1F4F5;
